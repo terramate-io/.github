@@ -40,5 +40,5 @@ and work on state-of-the-art open-source and commercial products.
 
 ---
 
-<sub>Stay up to date about our journey by following us [@ Linkedin](https://www.linkedin.com/company/terramate-io/), [@ Twitter](https://twitter.com/terramate-io),
+<sub>Stay up to date about our journey by following us [@ Linkedin](https://www.linkedin.com/company/terramate-io/), [@ Twitter](https://twitter.com/terramateio),
 or by joining our [Discord Community](https://terramate.io/discord).</sub>
