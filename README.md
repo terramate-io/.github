@@ -1,2 +1,2 @@
 # .github
-Community health files for the @mineiros-io organization
+Community health files for the @terramate-io organization
